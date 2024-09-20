@@ -48,6 +48,7 @@ INSTALLED_APPS = [
 
     'authenticate',
     'accounts',
+    'categories',
 ]
 
 MIDDLEWARE = [
